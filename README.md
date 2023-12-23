@@ -16,10 +16,10 @@
 
 -  Data Pre-processing and Cleaning
 
--  Data Manipulation 
-
--  Data Grouping and Aggregation
-
+-  Data Manipulation
+  
+-  Data analysis
+  
 -  Data Visualization
 
 ## Dataset : 

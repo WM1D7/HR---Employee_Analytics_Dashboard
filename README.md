@@ -24,7 +24,7 @@
 
 ## Dataset : 
 
--  [My Kaggle Dataset](https://www.kaggle.com/datasets/wm1deep7/new-york-uber-dataset)
+-  [Dataset](https://github.com/WM1D7/HR-Employee_Analytics_Dashboard/blob/main/Raw%20Data/Human%20Resources.csv)
 
 -  ##  Objectives :
 

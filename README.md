@@ -6,5 +6,5 @@
 
 ## Tech Stack Used
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-power-bi-can-make-your-professional-life-easier-than-rawat&psig=AOvVaw02QFPaUvAqenRGs9os6Lo2&ust=1703408463662000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCq8JyZpYMDFQAAAAAdAAAAABAI" width="250" height="150">
+<img src="https://media.licdn.com/dms/image/D4D12AQGU3gZKz1ZM1A/article-cover_image-shrink_720_1280/0/1683063840620?e=2147483647&v=beta&t=i6Xv5DIndT6eWhxbkgXsmhHFxvWO-pZrlsdkS0a9FD4" width="250" height="150">
 

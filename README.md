@@ -8,6 +8,20 @@
 
 <img src="https://media.licdn.com/dms/image/D4D12AQGU3gZKz1ZM1A/article-cover_image-shrink_720_1280/0/1683063840620?e=2147483647&v=beta&t=i6Xv5DIndT6eWhxbkgXsmhHFxvWO-pZrlsdkS0a9FD4" width="250" height="150">
 
+## 🛠 Skills Demonstrated :
+
+-  Data Loading
+
+-  Exploratory Data Analysis (EDA)
+
+-  Data Pre-processing and Cleaning
+
+-  Data Manipulation 
+
+-  Data Grouping and Aggregation
+
+-  Data Visualization
+
 ## Dataset : 
 
 -  [My Kaggle Dataset](https://www.kaggle.com/datasets/wm1deep7/new-york-uber-dataset)

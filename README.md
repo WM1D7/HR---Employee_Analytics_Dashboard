@@ -61,12 +61,12 @@ Historical Overview: The company has witnessed an upward trajectory in employee 
 
 -  **Deliverables 1:**
 
--  <img src="https://github.com/WM1D7/HR-Employee_Analytics_Dashboard/blob/main/Image/1.png"  width="600" height="600">
+-  <img src="https://github.com/WM1D7/HR-Employee_Analytics_Dashboard/blob/main/Image/1.png"  width="1000" height="600">
 
  **Deliverables 2:**
 
--  <img src="https://github.com/WM1D7/HR-Employee_Analytics_Dashboard/blob/main/Image/2.png"  width="600" height="600">
+-  <img src="https://github.com/WM1D7/HR-Employee_Analytics_Dashboard/blob/main/Image/2.png"  width="1000" height="600">
 
  **Deliverables 3:**
 
--  <img src="https://github.com/WM1D7/HR-Employee_Analytics_Dashboard/blob/main/Image/3.png"  width="600" height="600">
+-  <img src="https://github.com/WM1D7/HR-Employee_Analytics_Dashboard/blob/main/Image/3.png"  width="1000" height="600">
